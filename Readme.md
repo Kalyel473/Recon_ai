@@ -45,7 +45,7 @@ A inteligência do AIRecon opera em **três camadas complementares**:
 Apenas Python 3.8+ instalado. Nenhuma biblioteca externa é necessária:
 
 ```bash
-git clone https://github.com/kalyel473/airecon
+git clone https://github.com/Kalyel473/Recon_ai.git
 cd airecon
 chmod +x airecon.py
 
