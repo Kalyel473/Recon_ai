@@ -5,7 +5,7 @@
 ![Dependencies](https://img.shields.io/badge/Depend%C3%AAncias-Zero-success)
 ![Architecture](https://img.shields.io/badge/Arquitetura-Modular-purple)
 
-**AIRecon** é uma ferramenta de **reconhecimento e auditoria de sistemas** para avaliações de segurança autorizadas (pentests) e auditorias de infraestrutura, equipada com um **motor de IA 100% local e offline** — sem APIs externas, sem chaves e sem pacotes externos (`pip`).
+**AIRecon** é uma ferramenta de **reconhecimento e auditoria de sistemas** para avaliações de segurança autorizadas (pentests) e auditorias de infraestrutura, equipada com um **motor de IA 100% local e offline**  sem APIs externas, sem chaves e sem pacotes externos (`pip`).
 
 > ⚠️ **Aviso Legal:** Esta ferramenta deve ser usada **exclusivamente** em ambientes onde você possui autorização explícita para testar (seus próprios sistemas ou contratos de pentest assinados). O uso não autorizado é ilegal.
 
