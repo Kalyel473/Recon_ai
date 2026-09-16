@@ -1,9 +1,4 @@
-#!/usr/bin/env python3
-"""
-AIRecon — AI System Reconnaissance Tool (v2.0)
-High-performance modular reconnaissance with local offline AI engine.
-Zero external dependencies (pure Python standard library).
-"""
+
 
 import argparse
 import os
