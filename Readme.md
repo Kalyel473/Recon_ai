@@ -1,4 +1,4 @@
-# AIRecon v2.0 — AI System Reconnaissance Tool
+# AIRecon v2.0  AI System Reconnaissance Tool
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/Uso-Somente%20Autorizado-red)
