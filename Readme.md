@@ -59,7 +59,7 @@ sudo cp airecon.py /usr/local/bin/airecon
 
 ```bash
 # 1. Reconhecimento de domínio com DNS, SPF/DMARC e Web gerando relatórios em HTML, Markdown e JSON
-python airecon.py --target amern.org.br --dns --web --format all
+python airecon.py --target example.com --dns --web --format all
 
 # 2. Varredura completa de uma rede local com ICMP ping sweep e top 100 portas
 sudo python airecon.py --target 192.168.1.0/24 --discover --top --format html
